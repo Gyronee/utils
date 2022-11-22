@@ -33,6 +33,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV(高清)",CCTV-16
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
+#EXTINF:-1 tvg-id="7250" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV(高清)",CCTV-16-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV(高清)",CCTV-17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视(高清)",北京卫视
@@ -85,3 +87,5 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="特色频道(高清)",五星体育
 http://39.134.165.130:6610/000000001000/5000000010000017540/index.m3u8?vamoschucktv
+#EXTINF:-1 tvg-id="1987" tvg-name="抖音世界杯" group-title="特色频道(高清)",抖音世界杯
+https://pull-spe-l3.douyincdn.com/fantasy/stream-400235408264266422_spuhd.flv?_neptune_token=MIGoBAwCI7TgBuy-rqGr1C0EgYUJu77_733Pa5svm7xI6RBcVLGA9W9ogUD6EPgUB5BIh8fhtTqYF33HavU26KRyWaSU0qF2XMFmzDs2qJrgOO4Puha44Xxf2pmdZA-lxmk_o-5DzZcbd_JzGlfbJ3h0uEoucAab1xCQM9JMGiwIeh62fnX6mcoOIvEObpQRSFGNeH2gJVMaBBDp5KCW6J6XzZBDYMyBSK_T&auth_key=1669193353-0-0-7e9bfed6f1a33be6fd4fb1ced67c70b5&abr_pts=-1800
