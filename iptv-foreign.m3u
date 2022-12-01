@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://epg.pm/xmltv/epg.xml"
+#EXTINF:-1 tvg-id="14013" tvg-name="Sky Sports F1",Sky Sports F1 FHD
+https://epg.pm/stream/8b1f5e82dc7d4ee8b31d00169003c6610358789142a6b3ccdc0ffa69c18bcdca.ctv
+#EXTINF:-1 tvg-id="13430" tvg-name="Now Sports 4K 617",Now Sports 4K 617
+https://epg.pm/stream/fb41abc11f2c36a457a3c0a57aae2cff2517cc0b79cf575b205bf1d44fec0986.ctv
+#EXTINF:-1,TRT 4K
+https://epg.pm/stream/77faf5592d3de1528fd4601999cd0f9359c5426b98ac09c3587014b2f7e5199d.ctv
+#EXTINF:-1 tvg-id="13076" tvg-name="TF1",TF1 4K
+https://epg.pm/stream/615873b47d9bcf66b220cf95090411d652299d9ff12d542b1724c148f15cf797.ctv
+#EXTINF:-1 tvg-id="16968" tvg-name="Astro SuperSport",Astro Super Sport 4K
+https://epg.pm/stream/ad92f6fb1f726ae3ed3bda754e19bcb43a8b2189e2b3523ae6997e9e0ed63842.ctv
+#EXTINF:-1 tvg-id="13073" tvg-name="MyZen.tv",MYZEN TV 4K
+https://epg.pm/stream/4d758734389f836a038724b7acbbb90233fe52b7e0775d396912d87bca3b684a.ctv
+#EXTINF:-1 tvg-id="13935" tvg-name="Sky Sports Football",Sky Sports Football UHD
+https://epg.pm/stream/7252c606b85542289e14200b5409b47506bc84c091aa199a2f7ee41e7831a8fb.m3u8
+#EXTINF:-1 tvg-id="13908" tvg-name="Sky Sports Main Event",Sky Sports Main Event
+https://epg.pm/stream/e5b5d3b58d6ceb5b08f19d52c28aa3e88d521d48dafc1f3f4c5d01927791093b.ctv
+#EXTINF:-1 tvg-id="6107" tvg-name="Eleven Sports 1",Eleven Sports 1
+https://epg.pm/stream/8795544de92eb80cf895502eccec44581b2e675408e2b4a6882907b5c890042a.m3u8
+#EXTINF:-1,Sport 5
+https://epg.pm/stream/e6481b29df0045c5927c2bde974206c1ed4d3a172baf45a08ea1270eee7c80a0.m3u8
+#EXTINF:-1,TVP
+https://epg.pm/stream/717ad45c141574cc696ae2b167c3fc4a7c74e4d63d7799d13a4b638e7298c38e.m3u8
+#EXTINF:-1,Bein Sport
+https://epg.pm/stream/84cdde55f5efb83feffb6317e486609a472adbba5ee27275acccaa80e2f2051d.ctv
+#EXTINF:-1,Canal+
+https://epg.pm/stream/5d098515c85a4b7f5dc037bfae7f879a2636013e55d1e9f937a9ac6a93b59b84.m3u8
+#EXTINF:-1 tvg-id="13068" tvg-name="RMC Sport 1 UHD",RMC Sport
+https://epg.pm/stream/dc9a75e0da19835c01dea02d9a05084ed09340a0bd08573e42fb6df2eb868e89.ctv
+#EXTINF:-1,V Sports
+https://epg.pm/stream/5042e75dbc78edb06b351319f7a82d4d3320f4e3bc335bbe93ac4d9040a2801e.ctv
+#EXTINF:-1 tvg-id="13430" tvg-name="Now Sports 4K 617",Now Sports UHD HK 617
+https://epg.pm/stream/fb41abc11f2c36a457a3c0a57aae2cff2517cc0b79cf575b205bf1d44fec0986.ctv
+#EXTINF:-1 tvg-id="3737" tvg-name="Travelxp",TRAVELXP TV
+https://epg.pm/stream/68205d0f0173f5472bd6329ca72064742788eb0563444ee6e0b1daa99d2daf08.ctv
+#EXTINF:-1 tvg-id="16732" tvg-name="Hub Premier 2",Hub Premier 2
+https://epg.pm/stream/ceec641034ef804664d5248baaae241d3f688f476cbdcca56fb2e1edfa99b065.ctv
+#EXTINF:-1 tvg-id="7824" tvg-name="CCTV16",CCTV 16 SDR
+https://epg.pm/stream/35c3c752dd3f21eb576d1c4d275bca3f46ddb51489e3b07cf82daeeadec7cee6.m3u8
+#EXTINF:-1 tvg-id="17063" tvg-name="Bloomberg TV",Bloomberg TV
+https://epg.pm/stream/5e3ce3a5defd038f29d2c240335f92f5236d4cae3c0611dd161135f0350a6418.m3u8
