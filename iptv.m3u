@@ -87,8 +87,5 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="特色频道(高清)",五星体育
 http://39.134.165.130:6610/000000001000/5000000010000017540/index.m3u8?vamoschucktv
-#EXTINF:-1 tvg-id="1988" tvg-name="抖音世界杯" group-title="特色频道(高清)",抖音世界杯
-http://192.168.50.249:9527/zb.php?id=douyin
-#EXTINF:-1 tvg-id="1989" tvg-name="咪咕体育" group-title="特色频道(高清)",咪咕体育
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-#EXTINF:-1 tvg-id="
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="特色频道(高清)",五星体育2
+https://epg.pw/stream/4ff73dc4b4b44f28dba7db1559e815e2f04be67dd4d7bfa87a965cba178ac4a9.m3u8
